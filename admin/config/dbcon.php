@@ -1,8 +1,8 @@
 <?php
-$host= "localhost";
-$username= "root";
-$password= "";
-$database= "bus";
+$host= "sql12.freemysqlhosting.net";
+$username= "sql12740588";
+$password= "D4Bk3REvKV";
+$database= "sql12740588";
 
 // connections 
 
